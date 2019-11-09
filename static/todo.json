@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "name": "sample1",
+      "address": "sample1@examle.com",
+      "id": 1,
+      "completed": false,
+      "sex": "male"
+    },
+    {
+      "name": "sample2",
+      "address": "sample2@examle.com",
+      "id": 2,
+      "completed": false,
+      "sex": "male"
+    },
+    {
+      "name": "sample3",
+      "address": "sample3@examle.com",
+      "id": 3,
+      "completed": false,
+      "sex": "female"
+    },
+    {
+      "name": "sample4",
+      "address": "sample4@examle.com",
+      "id": 4,
+      "completed": false,
+      "sex": "female"
+    },
+    {
+      "name": "sample5",
+      "address": "sample5@examle.com",
+      "id": 5,
+      "completed": false,
+      "sex": "female"
+    }
+  ]
+}
